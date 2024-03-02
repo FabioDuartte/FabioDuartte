@@ -37,6 +37,7 @@ Currently, I'm a Data Science student at [Ada](https://www.linkedin.com/school/a
 
 Whether you're interested in collaborating on data projects, discussing new technologies, sharing reading ideas, or just want to chat about games, feel free to reach out!
 
+
 <div> 
   <a href="https://www.instagram.com/fabioduartte/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:freitasfdf28@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
