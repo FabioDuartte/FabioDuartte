@@ -22,14 +22,16 @@ Currently, I'm a Data Science student at [Ada](https://www.linkedin.com/school/a
   <img align="center" alt="Fábio-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">    
 </div>
 
+##
 
 ### What you'll find here:
 
-- Data Science-related projects
-- Data experiments and analyses
-- Shared resources and learnings
-- Reflections on readings and new discoveries
-- Fun moments with games and adventures
+📊 Data Science-related projects  
+🔍 Data experiments and analyses  
+📚 Shared resources and learnings  
+🔍 Reflections on readings and new discoveries  
+
+## 
 
 ### Let's Connect!
 
