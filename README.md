@@ -1,28 +1,37 @@
-### Hi there 👋
+# 👋 Hello, I'm Fábio!
 
- [<img src="https://raw.githubusercontent.com/FabioDuartte/FabioDuartte/master/intro.gif" alt="👋 Hi there! I'm Fábio" title="👋 Hi there! I'm  Fábio)"/>](https://raymond.li/)
+🎓 Bachelor's degree in Computer Science  
+📊 Data Scientist  
+📚 Book Lover and Lifelong Learner  
+🎮 Gaming Enthusiast  
+🪂 Adventure Seeker who loves Parachute Jumps  
 
-<!--
-**FabioDuartte/FabioDuartte** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Currently, I'm a Data Science student at [Ada](https://www.linkedin.com/school/adatechbr/), diving into the vast universe of data. Here you'll find all my progress on this exciting journey.
 
-Here are some ideas to get you started:
+### My Skills:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Fábio-Jupyter" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original-wordmark.svg"/>
+  <img align="center" alt="Fábio-SQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" />
   <img align="center" alt="Fábio-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">  
   <img align="center" alt="Fábui-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Fábio-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Fábio-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">    
 </div>
+
+
+### What you'll find here:
+
+- Data Science-related projects
+- Data experiments and analyses
+- Shared resources and learnings
+- Reflections on readings and new discoveries
+- Fun moments with games and adventures
+
+### Let's Connect!
+
+Whether you're interested in collaborating on data projects, discussing new technologies, sharing reading ideas, or just want to chat about games, feel free to reach out!
 
 ##
 <div> 
@@ -35,4 +44,3 @@ Here are some ideas to get you started:
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FabioDuartte&layout=compact)
 
-![Snake animation](https://github.com/FabioDuartte/FabioDuartte/blob/output/github-contribuition-grid-snake.svg)
