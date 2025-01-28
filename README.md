@@ -6,7 +6,6 @@
 🎮 Gaming Enthusiast  
 🪂 Adventure Seeker who loves Parachute Jumps  
 
-Currently, I'm a Data Science student at [Ada](https://www.linkedin.com/school/adatechbr/), diving into the vast universe of data. Here you'll find all my progress on this exciting journey.
 
 ##
 
